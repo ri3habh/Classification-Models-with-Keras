@@ -8,3 +8,5 @@ label_map = {
 }
 
 Data is from the Stanford Online Products Dataset. (https://www.tensorflow.org/datasets/catalog/stanford_online_products)
+
+Best score achieved was 0.898.
